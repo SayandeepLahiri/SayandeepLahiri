@@ -13,4 +13,4 @@ I am an application developer at [@Infosys](https://twitter.com/Infosys). I am S
 [<img align="left" alt="Sayandeep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 
-[linkedin]:https://www.linkedin.com/in/sayandeep-lahiri-87439311b/
+[linkedin]:https://www.linkedin.com/in/sayandeeplahiri10/
