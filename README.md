@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an application developer at [@Infosys](https://twitter.com/Infosys). I am SAP MII developer working with the technologies from the [toolbox.](https://github.com/SayandeepLahiri#-toolbox) 
+I am an application developer at [@Infosys](https://twitter.com/Infosys). I am a SAP MII developer working with the technologies from the [toolbox.](https://github.com/SayandeepLahiri#-toolbox) 
 - 🔭 I’m currently working on ... :wink:
 - 🌱 I’m currently learning ...Javascript, NodeJS, Java and more.
 - 📫 How to reach me: ... <a href="mailto:sayandeep63@gmail.com">sayandeepl63@gmail.com</a>
